@@ -1,0 +1,155 @@
+table{
+  margin: auto;
+  text-align: center;
+}
+#edu {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+ 
+  
+}
+
+#edu td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#edu tr:nth-child(even){background-color: #f2f2f2;}
+
+#edu tr:hover {background-color: #ddd;}
+
+#edu th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+h1{
+  font-family: "Montserrt-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #00cc99;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+#title{
+  background-color: #000099;
+}
+body{
+  font-family: "Montserrt";
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrt-light";
+}
+.about{
+  color: #071F37;
+  padding-top: 2rem;
+  font-size: 3rem;
+}
+#about-me{
+   background-color: #fff;
+   text-align: center;
+}
+.skills{
+  color: #000;
+  padding-bottom: 1rem;
+}
+.content{
+  font-size: 1.5rem;
+  text-align: left;
+  color: #000;
+  padding: 2% 4%;
+  }
+  #experiences{
+    text-align: center;
+    background-color: #000099;
+  }
+  .work-experience{
+    color: #00cc99;
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: "Montserrt-bold";
+    line-height: 1.5;
+  }
+  .experience-image{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  .emph{
+    color: #00cc99;
+  }
+  #press{
+    background-color: #000099;
+    text-align: center;
+    padding: 3%;
+  }
+  .press-image{
+    width: 15%;
+    margin: 1rem;
+  }
+  .carousel-item{
+    padding: 5% 15%;
+  }
+  .sho{
+    color: #071F37;
+    text-align: center;
+    font-family: "Montserrt-bold";
+    padding-top: 2rem;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+  }
+  .hack{
+    color: #6600cc;
+  }
+  #achievements{
+    padding: 2rem;
+    text-align: center;
+  }
+  .pricing-column{
+    padding: 2% 3%;
+  }
+  #my-work{
+    background-color: #000099;
+  }
+  .work{
+    text-align: center;
+    font-size: 3rem;
+    padding: 2% 3%;
+    font-family: "Montserrt-Black";
+    color: #00cc99;
+  }
+  .links{
+    text-align: center;
+    padding: 5% 15%;
+    font-family: "Montserrt-bold";
+    font-size: 3rem;
+  }
+  .final{
+    text-align: center;
+  }
+  .various{
+    text-align: center;
+  }
+  #footer{
+    text-align: center;
+    font-size: 1rem;
+    font-family: "Montserrt";
+
+  }
